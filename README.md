@@ -60,4 +60,4 @@ Real-world deployment and testing
 
 
 
-![Demo](output video.gif)
+![Demo](https://github.com/ksuveda2006/Underwater-robots/blob/main/output%20video.gif)
