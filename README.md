@@ -61,8 +61,14 @@ Real-world deployment and testing
 _**The output video of the simulation is:**_
 
 1.The black moving squares are the moving obstacles in water ( like fishes & underwater animals )
+
+
 2.The triangle are the static obstacles ( like corals & coral reefs ) 
+
+
 3.The moving leader follower robots are underwater swarm robots that have a radius senstive server for the static and dynamic obstacles based on that they avoid those 
   obstacles and move away from the obstacles 
+
+
 
 ![Demo](https://github.com/ksuveda2006/Underwater-robots/blob/main/output%20video.gif)
