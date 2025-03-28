@@ -58,6 +58,6 @@ Real-world deployment and testing
 
 
 
-
+_**The output video of the simulation is:**_
 
 ![Demo](https://github.com/ksuveda2006/Underwater-robots/blob/main/output%20video.gif)
