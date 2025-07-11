@@ -70,5 +70,9 @@ _**The output video of the simulation is:**_
   obstacles and move away from the obstacles 
 
 
+![Demo](https://github.com/ksuveda2006/Underwater-robots/blob/main/underwaterrobosimulation%20(1).gif)
+
+
+
 
 ![Demo](https://github.com/ksuveda2006/Underwater-robots/blob/main/output%20video.gif)
